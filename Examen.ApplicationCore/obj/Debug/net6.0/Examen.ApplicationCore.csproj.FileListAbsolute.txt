@@ -1,0 +1,48 @@
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Administrateur\source\repos\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\firas\Desktop\Examen - Squelette\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.deps.json
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\refint\Examen.ApplicationCore.dll
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Dr.Gabtni\Desktop\Exam .NET\Examen.ApplicationCore\obj\Debug\net6.0\ref\Examen.ApplicationCore.dll
